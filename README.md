@@ -128,11 +128,11 @@ Run the notebook using:
 
 ## 👨‍💻 Author
 
-**Name:** YOUR NAME
+**Name:** Pravina S
 
 **Department:** Artificial Intelligence and Data Science
 
-**College:** YOUR COLLEGE NAME
+**College:** Sri Venkateswaraa College Of Technology
 
 ---
 
